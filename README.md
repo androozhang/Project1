@@ -32,6 +32,7 @@ Here's a walkthrough of implemented required features:
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had difficulty trying to add a link to a button using props.
 
 ## License
 
